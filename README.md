@@ -17,8 +17,6 @@ Português - (Brasil)
 ```
 git clone https://github.com/w1nneer/Fundacao-Osorio.git
 ```
-- ### Banco de Dados
-Internet Instável
 
 # Licensa
 
